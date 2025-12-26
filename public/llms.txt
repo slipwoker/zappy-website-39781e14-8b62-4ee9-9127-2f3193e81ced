@@ -1,6 +1,4 @@
-# PixelBrain — Generative Engine Optimization Map
-
-> A טכנולוגיה ובינוי מלאכותי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About PixelBrain
-PixelBrain is a business in the טכנולוגיה ובינוי מלאכותי industry.
-
-## Target Audience
-כל העולם - קהל רחב וגלובלי
-
-## Industry
-טכנולוגיה ובינוי מלאכותי
-
+## About Business
 ---
 
 # Additional Resources
