@@ -1,57 +1,47 @@
-# PixelBrain — Generative Engine Optimization Map
-
-> A טכנולוגיה ובינוי מלאכותי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://zappy-site-39781e14-8b62-4ee9-9127.onrender.com
+https://pixelbrain.zappy5.app
 PixelBrain - יצירת תמונות בינה מלאכותית בעברית במחיר זול. כלי בינה מלאכותית מתקדם ליצירת תמונות מרהיבות בקלות.
 
 ### שירותים
-https://zappy-site-39781e14-8b62-4ee9-9127.onrender.com/services
+https://pixelbrain.zappy5.app/services
 שירותי יצירת תמונות בינה מלאכותית בעברית של PixelBrain - אומנות דיגיטלית, תמונות שיווקיות, צילומי מוצרים ועוד. כלי AI מתקדם במחיר זול.
 
 ### אודות
-https://zappy-site-39781e14-8b62-4ee9-9127.onrender.com/about
+https://pixelbrain.zappy5.app/about
 אודות PixelBrain - כלי בינה מלאכותית ליצירת תמונות בעברית. הסיפור שלנו, החזון שלנו, והטכנולוגיה שמאפשרת בניית תמונות AI במחיר זול.
 
 ### צור קשר
-https://zappy-site-39781e14-8b62-4ee9-9127.onrender.com/contact
+https://pixelbrain.zappy5.app/contact
 צור קשר עם PixelBrain - כלי בינה מלאכותית ליצירת תמונות בעברית. נשמח לענות על כל שאלה לגבי יצירת תמונות AI במחיר זול.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-39781e14-8b62-4ee9-9127.onrender.com/privacy
+https://pixelbrain.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-39781e14-8b62-4ee9-9127.onrender.com/terms
+https://pixelbrain.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-39781e14-8b62-4ee9-9127.onrender.com/accessibility
+https://pixelbrain.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About PixelBrain
-PixelBrain is a business in the טכנולוגיה ובינוי מלאכותי industry.
-
-## Target Audience
-כל העולם - קהל רחב וגלובלי
-
-## Industry
-טכנולוגיה ובינוי מלאכותי
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-39781e14-8b62-4ee9-9127.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-39781e14-8b62-4ee9-9127.onrender.com/robots.txt
+- **Sitemap**: https://pixelbrain.zappy5.app/sitemap.xml
+- **Robots.txt**: https://pixelbrain.zappy5.app/robots.txt
