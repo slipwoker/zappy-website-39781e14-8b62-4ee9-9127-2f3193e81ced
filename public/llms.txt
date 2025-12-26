@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# PixelBrain — Generative Engine Optimization Map
+
+> A טכנולוגיה ובינוי מלאכותי business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://pixelbrain.zappy5.app
 PixelBrain - יצירת תמונות בינה מלאכותית בעברית במחיר זול. כלי בינה מלאכותית מתקדם ליצירת תמונות מרהיבות בקלות.
 
 ### שירותים
-https://example.com/services
+https://pixelbrain.zappy5.app/services
 שירותי יצירת תמונות בינה מלאכותית בעברית של PixelBrain - אומנות דיגיטלית, תמונות שיווקיות, צילומי מוצרים ועוד. כלי AI מתקדם במחיר זול.
 
 ### אודות
-https://example.com/about
+https://pixelbrain.zappy5.app/about
 אודות PixelBrain - כלי בינה מלאכותית ליצירת תמונות בעברית. הסיפור שלנו, החזון שלנו, והטכנולוגיה שמאפשרת בניית תמונות AI במחיר זול.
 
 ### צור קשר
-https://example.com/contact
+https://pixelbrain.zappy5.app/contact
 צור קשר עם PixelBrain - כלי בינה מלאכותית ליצירת תמונות בעברית. נשמח לענות על כל שאלה לגבי יצירת תמונות AI במחיר זול.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://pixelbrain.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://pixelbrain.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://pixelbrain.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About PixelBrain
+PixelBrain is a business in the טכנולוגיה ובינוי מלאכותי industry.
+
+## Target Audience
+כל העולם - קהל רחב וגלובלי
+
+## Industry
+טכנולוגיה ובינוי מלאכותי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://pixelbrain.zappy5.app/sitemap.xml
+- **Robots.txt**: https://pixelbrain.zappy5.app/robots.txt
