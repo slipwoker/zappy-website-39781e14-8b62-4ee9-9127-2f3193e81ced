@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pixelbrain-39781e14.zappy5.app/sitemap.xml
